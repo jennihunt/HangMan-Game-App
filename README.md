@@ -17,11 +17,11 @@
 
 1. Clone the repository:
    ```sh
-   git clone http://45.55.66.15/375961/hang-man-game.git
+   git clone [https://github.com/jennihunt/HangMan-Game-App.git]
    ```
 2. Navigate to the project directory:
    ```sh
-   cd hang-man-game
+   cd HangMan-Game-App
    ```
 3. Install the dependencies:
    ```sh
