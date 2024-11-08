@@ -1,0 +1,28 @@
+#questionEdit{
+    /* background-color: aquamarine; */
+    display: flex;
+   flex-wrap: wrap;
+   justify-content:space-evenly;
+   gap: 5px;
+   width: 95%;
+   margin: auto;
+
+}
+.questionli{
+    
+    list-style-type: none;
+   background-color: rgb(191, 191, 203);
+   width: 450px;
+   margin-bottom: 2%;
+   padding: 9px;
+   border-radius: 25%;
+}
+.answerli{
+   width: 70%;
+
+   
+}
+
+.eidtBubble{
+    width:20px
+}

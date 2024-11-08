@@ -1,0 +1,89 @@
+#hangDiv {
+    background-image: url("../images/hangmanPost.png");
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: 90vw 99%;
+    background-position: center;
+    border-radius: 25%;
+    margin-top: 5px;
+}
+
+#head {
+    position: absolute;
+    top: 19%;
+    left: 35%
+}
+
+#body {
+    position: absolute;
+    top: 31.5%;
+    left: 35%
+}
+
+#leftarm {
+    position: absolute;
+    top: 32%;
+    left: 33%;
+    transform: rotate(20deg);
+}
+
+#rightarm {
+    position: absolute;
+    top: 32%;
+    left: 39.5%;
+    transform: rotate(-20deg);
+}
+
+#leftleg {
+    position: absolute;
+    height: 115px;
+    top: 43%;
+    left: 33%;
+    transform: rotate(-5deg);
+}
+
+#rightleg {
+    position: absolute;
+    height: 115px;
+    top: 42%;
+    left: 40.5%;
+    transform: rotate(-6deg);
+}
+
+#questionTitle {
+    font-size: 25px;
+}
+
+#question {
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+    width: 34px;
+    height: 30px
+}
+
+#answersDiv1 {
+    width:80%;
+    margin: auto;  
+    display: flex;
+    flex-wrap: wrap;
+}
+#answersDiv1 label{
+    width:45%;
+}
+.answer {
+    font-size: 29px;
+    margin-right: 3%;
+}
+
+button {
+    background-color: rgba(178, 246, 228, 0.8);
+    height: 40px;
+    font-size: 20px;
+    padding: 0px 15px 0px 15px;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-left: 5px;
+}

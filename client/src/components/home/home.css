@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Title;
+    src: url("../fonts/BlackGirl-z8Y4w.otf");
+}
+
+#homeTitle {
+    font-family: Title;
+    font-size: 190px;
+    text-shadow: 5px 4px rgb(101, 156, 138);
+}
+
+#homeSection{
+    width:80%;
+    background-color: rgb(26, 203, 144,.4);
+    margin: auto;
+    margin-top: 3%;
+    padding: 50px;
+    border-radius: 25%;
+}
+
+#homeP{
+    font-size: 30px;
+}

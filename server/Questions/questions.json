@@ -1,0 +1,114 @@
+[
+    {
+        "questionNum":1,
+        "question":"What is the diiference between `==` and `===`",
+        "answer1":["Equal and strictly equal",true],
+        "answer2":["Equal to and not equal to",false],
+        "answer3":["No difference",false],
+        "answer4":["Unique equal equation",false]
+    },
+    {
+        "questionNum":2,
+        "question":"How do you trigger a pop-up window",
+        "answer1":["Pop-box method",false],
+        "answer2":["Pop-up method",true],
+        "answer3":["Alternate method",false],
+        "answer4":["Alert method",true]
+    },
+    {
+        "questionNum":3,
+        "question":"What is a ternary operator",
+        "answer1":["Turns operations around",false],
+        "answer2":["False only condition",false],
+        "answer3":["Shortcut for if else statements",true],
+        "answer4":["Turning point of an operation",false]
+    },
+    {
+        "questionNum":4,
+        "question":"What is an Api",
+        "answer1":["Automatic Portable Information",false],
+        "answer2":["Application Programming Interface",true],
+        "answer3":["Shortcut for javascript",false],
+        "answer4":["Not how software interacts with other software",false]
+    },
+    {
+        "questionNum":5,
+        "question":"What is the Dom",
+        "answer1":["JSON",false],
+        "answer2":["Date Operation Model",false],
+        "answer3":["Date Method",false],
+        "answer4":["Document Object Model",true]
+    },
+    {
+        "questionNum":6,
+        "question":"What does '25' +25 evaluate to?",
+        "answer1":["50",false],
+        "answer2":["False",false],
+        "answer3":["2525",true],
+        "answer4":["250",false]
+    },
+    {
+        "questionNum":7,
+        "question":"What is a class",
+        "answer1":["Operation that dosn't involve JavaScript",false],
+        "answer2":["Template that constructs a specific class",true],
+        "answer3":["An object",false],
+        "answer4":["A place for students",false]
+    },
+    {
+        "questionNum":8,
+        "question":"What is the second argument on a for loop",
+        "answer1":["Start position",false],
+        "answer2":["If statement",false],
+        "answer3":["Increaser or decreaser",false],
+        "answer4":["Break condition",true]
+    },
+    {
+        "questionNum":9,
+        "question":"How do you escape characters inside of a string",
+        "answer1":["Escape Method",false],
+        "answer2":["Adding the backslash before the character",true],
+        "answer3":["Make the string a number",false],
+        "answer4":["parseInt()",false]
+    },
+    {
+        "questionNum":10,
+        "question":"What array method can be used to change the order of the array from either greatest to least or visa versa",
+        "answer1":["reverse()",true],
+        "answer2":["reduce()",false],
+        "answer3":["map()",false],
+        "answer4":["entries()",false]
+    },  {
+        "questionNum":11,
+        "question":"What is an example of a logical Operator",
+        "answer1":["if statement",false],
+        "answer2":["false",false],
+        "answer3":[">=",false],
+        "answer4":["&&",true]
+    }, 
+     {
+        "questionNum":12,
+        "question":"What does parseInt() do",
+        "answer1":["Parses a string a returns a string of numbers",false],
+        "answer2":["Checks if a value is an integer",false],
+        "answer3":["Parses a string and returns a whole number",true],
+        "answer4":["Converts a number into a string",false]
+    },
+    {
+        "questionNum":13,
+        "question":"What string method removes white space from the front and end",
+        "answer1":["split()",false],
+        "answer2":["unshift()",false],
+        "answer3":["trim()",true],
+        "answer4":["delete",false]
+    },
+    {
+        "questionNum":14,
+        "question":"Which loop, loops through an object",
+        "answer1":["for in loop",true],
+        "answer2":["for of loop",false],
+        "answer3":["map()",true],
+        "answer4":["key()",false]
+    }
+
+]

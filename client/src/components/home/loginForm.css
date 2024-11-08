@@ -1,0 +1,53 @@
+#loginDiv{
+    margin-top: 2%;
+}
+
+
+.txt-block {
+    float:left;
+    margin-left: 3%;
+    min-height: 295px;
+    max-height: fit-content;
+    width: 36%;
+    max-width: 40%;
+    min-width: fit-content;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+   border-radius: 90px;
+}
+
+.txt-block-right{
+    float: right;
+    margin-right: 3%;
+    min-height: 295px;
+    max-height: fit-content;
+    width: 36%;
+    min-width: fit-content;
+    max-width: 40%;
+    background-color: rgb(61, 60, 60);
+    color: white;
+    font-size: 20px;  
+    border-radius: 95px;
+}
+.logininput {
+    width: 30%;
+    margin-left: 1%;
+  
+}
+
+.submitbtn{
+    background-color: rgb(168, 242, 219);
+    padding: 8px 9px;
+    border-radius: 25px;
+    box-shadow:  2px 2px white;
+}
+
+#submitbtn:hover {background-color: #91f5c4}
+  
+#submitbtn:active {
+    background-color: #91f5c4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+

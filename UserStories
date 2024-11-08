@@ -1,0 +1,20 @@
+# MAinPage
+- The user will be able to login to the website by way of a form element on the hero image.
+- when the user logs in the login info is saved to the back end database.
+
+# Plan Trip Page
+- the user will be able to choose a trip destination.
+- the user will be able to choose a price range and trip date.
+- When the user submits the form data the info will be saved to the database and display on the View Trips Page.
+
+# View Trip Page
+- All trips that have been entered into the database by way of the Plan Trip page, will be displayed on this page.
+
+# Projects Page
+- This page will allow you to both view and update trips planned
+- You will have the capability to mark a trip as taken/inactive  and/or delete the trip altogether
+- There will be a block specified to total all the totals of active trips/ trips that have not been taken yet and let you know the amount of money needed to have for all trips active.
+
+# Error Page
+- This page will be displayed only when the router entered is incorrect.
+- This page will let the user know the page they are on does not exist and display a link that will direct the user back to the main page.

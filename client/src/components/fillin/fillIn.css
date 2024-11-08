@@ -1,0 +1,43 @@
+#answersDiv{
+    width:30%;
+    margin: auto;  
+}
+
+
+#guessAnswerDiv {
+    display: flex;
+    margin-left: 33%;
+    gap: 5%;
+    margin-top: 1.5%;
+    margin-bottom: 3%;
+}
+
+#guessDiv {
+    background-color: rgb(150, 149, 149, .6);
+    min-height: 50px;
+}
+
+#lose,#win {
+    color: white;
+    font-size: 25px;
+    background-color: rgb(117, 244, 206);
+    text-shadow: 2px 4px 2px grey;
+    width: 40%;
+    margin: auto;
+    border-radius: 25px;
+}
+#score{
+    font-size: 25px;
+}
+#nextbtn {
+    background-color: rgba(223, 246, 178, 0.8);
+    text-shadow: 2px 1px 2px rgb(81, 231, 216);
+    height: 30px;
+    font-size: 15px;
+    padding: 0px 3px 0px 3px;
+    border-radius: 5px;
+    margin-top: 10px;
+    float: right;
+    margin-right: 10%;
+    margin-left: -12%;
+}
